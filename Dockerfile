@@ -1,7 +1,7 @@
 #FR
 FROM ubuntu:14.04
 
-#MAINTAINER - Identifies the maintainer of the dockerfile.
+#MAINTAINER - Identifes the maintainer of the dockerfile.
 MAINTAINER ian.miell@gmail.com
 
 #RUN Runs a command in the container
