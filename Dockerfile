@@ -1,4 +1,4 @@
-#FRO
+#FR
 FROM ubuntu:14.04
 
 #MAINTAINER - Identifies the maintainer of the dockerfile.
