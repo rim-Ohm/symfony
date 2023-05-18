@@ -1,4 +1,4 @@
-#FROM - Image to start building on.
+#FROM Image to start building on.
 FROM ubuntu:14.04
 
 #MAINTAINER - Identifies the maintainer of the dockerfile.
